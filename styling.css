@@ -1,0 +1,42 @@
+h1 {
+    text-align: center;
+    font-size: 24pt;
+    font-family: Arial;
+    color: darkgreen;
+}
+
+p {
+    text-align: center;
+    font-size: 18pt;
+    font-family: Arial;
+}
+
+img {  
+    max-width: 50%;  
+    height: auto; 
+}  
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.center_short {
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.picture_div {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: auto;  
+    text-align: center;  
+    padding: 15px; 
+}
